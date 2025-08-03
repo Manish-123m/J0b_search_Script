@@ -9,7 +9,7 @@ import time
 import random
 
 # Your bot token here
-BOT_TOKEN = "8234150234:AAFy9UM0zsu1XgYEfZV-xv0ABEK8YaK9Qbs"
+BOT_TOKEN = "8234150234:AAFy9UfgvhbjnZV-xv0ABE85lkjhaK9Qbs"
 
 
 # Logging setup
